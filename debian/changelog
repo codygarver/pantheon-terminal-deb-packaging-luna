@@ -1,3 +1,9 @@
+pantheon-terminal (0.2.4.1) precise; urgency=low
+
+  * New upstream release.
+
+ -- Cody Garver <cody@elementaryos.org>  Thu, 03 Oct 2013 11:11:33 -0500
+
 pantheon-terminal (0.2.4) precise; urgency=low
 
   * New upstream release.
